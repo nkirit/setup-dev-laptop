@@ -14,7 +14,7 @@ echo " Python3 Installed yay 🎉"
 # brew install --cask sublime-text
 echo " Sublime Text Installed yay 🎉"
 # Install Docker
-brew install docker
+brew install --cask docker
 echo " Docker Installed yay 🎉"
 docker --version
 # Install Java
