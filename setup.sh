@@ -35,3 +35,6 @@ echo " Slack Installed yay 🎉"
 # Install Node
 brew install node
 echo " Node Installed yay 🎉"
+# Install Postman
+brew install --cask postman
+echo " Postman Installed yay 🎉"
