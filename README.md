@@ -14,3 +14,4 @@
 * Slack                   [ latest version ]
 * Node                    [ latest version ]
 * npm                     [ last stable release version ]
+* Postman                 [ latest version ]
