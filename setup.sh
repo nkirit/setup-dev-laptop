@@ -3,38 +3,36 @@
 brew tap homebrew/cask-versions
 brew update
 brew tap homebrew/cask
-echo " Homebrew Installed yay 🎉"
+echo " Homebrew Installed"
 # Install Git
 brew install git
-echo " Git Installed yay 🎉"
+echo " Git Installed"
 # Install Python3
-# brew install python
-echo " Python3 Installed yay 🎉"
+brew install python
+echo " Python3 Installed"
 # Install sublime-text
-# brew install --cask sublime-text
-echo " Sublime Text Installed yay 🎉"
+brew install --cask sublime-text
+echo " Sublime Text Installed"
 # Install Docker
 brew install --cask docker
-echo " Docker Installed yay 🎉"
+echo " Docker Installed"
 docker --version
 # Install Java
 brew install java
-echo " Java Installed yay 🎉"
+java -version
+echo " Java Installed"
 # Install Maven
 brew install maven
 echo " Maven Installed yay 🎉"
-# Install Pycharm
-brew install --cask pycharm
-echo " Pycharm Installed yay 🎉"
 # Install Chrome
 brew install --cask google-chrome
-echo " Chrome Installed yay 🎉"
+echo " Chrome Installed"
 # Install Slack
 brew install --cask slack
-echo " Slack Installed yay 🎉"
+echo " Slack Installed"
 # Install Node
 brew install node
-echo " Node Installed yay 🎉"
+echo " Node Installed"
 # Install Postman
 brew install --cask postman
-echo " Postman Installed yay 🎉"
+echo " Postman Installed"
